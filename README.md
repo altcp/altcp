@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @altcp
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning CI/CD
+- 🌱 I’m currently learning Cloud CI/CD
 - 💞️ I’m looking to collaborate on Things that are Fun
 - 📫 How to reach me : colab.tcp@gmail.com
 
