@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alvin
+- 👋 Hi, I’m Alvin. 
 - 👀 I’m interested in Financial Deep Learning.
 - 🌱 I’m currently improving my DevOps Skills.
 - 💞️ I’m looking to collaborate on Non-Financial or Social AI.
