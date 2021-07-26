@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alvin
-- 👀 I’m interested in Deep Learning.
+- 👀 I’m interested in Financial Deep Learning.
 - 🌱 I’m currently improving my DevOps Skills.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me : colab.tcp@gmail.com
